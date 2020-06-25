@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ALS31313
+D 4-bit I2C-bus and SMBus IO port, TSSOP8 package
+K i2c io port
+F https://www.allegromicro.com/~/media/Files/Datasheets/ALS31313-Datasheet.ashx
+$ENDCMP
+#
+#End Doc Library

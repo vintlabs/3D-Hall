@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ALS31313)(type Legacy)(uri ${KIPRJMOD}/ALS31313.lib)(options "")(descr "")(disabled))
+  (lib (name als31313)(type Legacy)(uri ${KIPRJMOD}/als31313.lib)(options "")(descr ""))
+)
