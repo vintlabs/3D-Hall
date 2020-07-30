@@ -7,4 +7,6 @@ This I²C sensor module cn detect magnetism in three dimensions (XYZ), and can b
 
 The default I2C address is 0x60, but can be changed by modifying R3-R6 (See page 22 of the ALS31313 datasheet (https://www.allegromicro.com/~/media/Files/Datasheets/ALS31313-Datasheet.ashx).
 
+Example Aruino sketch: https://github.com/vintlabs/ESP32-Arduino-3dHall-Example
+
 Currently available on Amazon Canada: https://www.amazon.ca/dp/B0896VD73G
